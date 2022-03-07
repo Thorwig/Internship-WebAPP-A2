@@ -3,5 +3,5 @@
 $host     = 'localhost';
 $db       = 'multi-p';
 $user     = 'root';
-$password = 'mouad2001';
+$password = ''; #mdp habituel
 ?>
